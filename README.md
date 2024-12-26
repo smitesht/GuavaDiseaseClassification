@@ -3,10 +3,12 @@
 The dataset contains three types of Guava Disease images
 
 - Anthracnose
-- Ftuit Fly
+- Fruit Fly
 - Healthy Guava
 
-This code identify which type disease Guava image contains
+![21_unsharp_clahe_augmented_1](https://github.com/user-attachments/assets/821ca602-1b62-445f-a65b-b721bfed9fd5)
+
+This code identifies which type of disease the Guava image contains
 
 To identify the disease the code uses Convolution Neural Network with PyTorch Library
 
